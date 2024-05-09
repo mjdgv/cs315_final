@@ -33,7 +33,7 @@
 - data
   - folder with the pyktok results files for 5 users
  
-**File**: clustering_multiple_accounts.ipynb  
+**File**: clustering_multiple_.ipynb  
 **Purpose**: documented python notebook with code for the clustering analysis and a comparison of results using Dunn index
 
 **File**: topic-modeling-ads.ipynb  
